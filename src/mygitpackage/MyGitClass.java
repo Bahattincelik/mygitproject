@@ -16,7 +16,7 @@ public class MyGitClass {
 
 		System.out.println("Uzak sunucudaki 3. kodum");
 
-
+		System.out.println("Bilgisayarimdaki 4. kodum");
 	}
 
 }
